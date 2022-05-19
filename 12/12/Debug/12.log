@@ -1,0 +1,5 @@
+﻿  12(1).cpp
+  12.cpp
+C:\Users\Арсений\source\repos\12\12\12.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  12.vcxproj -> C:\Users\Арсений\source\repos\12\Debug\12.exe
